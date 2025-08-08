@@ -1,0 +1,31 @@
+.vscode
+.idea
+.env
+.venv
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.whl
+*.dist-info/
+# Jupyter Notebook
+.ipynb_checkpoints
+# Pytest
+.cache
+.pytest_cache/
+# Coverage
+.coverage
+.coverage.*
+# Mypy
+.mypy_cache/
+# Bandit
+.bandit
+# Pyre
+.pyre/
+# Pylint
+.pylint.d/
